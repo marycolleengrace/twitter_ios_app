@@ -1,8 +1,8 @@
 # Project 3 - *Twitter*
 
-**Name of your app** is a basic twitter app to read your tweets.
+**Twitter** is a basic twitter app to read your tweets.
 
-Time spent: **X** hours spent in total
+Time spent: **9** hours spent in total
 
 ## User Stories
 
@@ -30,5 +30,11 @@ Here's a walkthrough of implemented user stories:
 Here's another walkthrough of implemented user stories:
 
 <img src='https://media.giphy.com/media/irAFT86CzBosvcllIt/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+## Video Walkthrough #3
+
+Walkthrough of User staying logged in:
+
+<img src='https://media.giphy.com/media/3SCLUlcMVH2wvhUBUb/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 
