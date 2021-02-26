@@ -8,20 +8,27 @@ Time spent: **X** hours spent in total
 
 The following **required** functionality is completed:
 
-- [ ] User sees app icon in home screen and styled launch screen. (1pt)
-- [ ] User can log in. (1pt)
-- [ ] User can log out. (1pt)
-- [ ] User stays logged in across restarts. (1pt)
-- [ ] User can view tweets with the user profile picture, username, and tweet text. (6pts)
+- [x] User sees app icon in home screen and styled launch screen. (1pt)
+- [x] User can log in. (1pt)
+- [x] User can log out. (1pt)
+- [x] User stays logged in across restarts. (1pt)
+- [x] User can view tweets with the user profile picture, username, and tweet text. (6pts)
 
 The following **bonus** features are implemented:
 
-- [ ] User can pull to refresh. (1pt)
-- [ ] User can load past tweets infinitely. (2pts)
+- [x] User can pull to refresh. (1pt)
+- [x] User can load past tweets infinitely. (2pts)
 
-## Video Walkthrough
+## Video Walkthrough #1
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media.giphy.com/media/D5yxUhAxmOaqDP71aI/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
+## Video Walkthrough #2
+
+Here's another walkthrough of implemented user stories:
+
+<img src='https://media.giphy.com/media/irAFT86CzBosvcllIt/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+
 
